@@ -29,4 +29,7 @@
   "white": false,
   "withstmt": false,
   "worker": true,
+  "files.associations": {
+    "*.js": "javascriptreact",
+  }
 }
